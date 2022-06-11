@@ -7,7 +7,7 @@ birds eye view of data structure and algorithm in c# so you can save your ass in
 **Array:** Collection of items of same datatype, it has fixed size <br />
 **ArrayList:** Collection item of same datatype, it has dynammic/variable size, it can resize itself when needed <br />
 **Trees:** data strcuture (DS) that is organized in hierarchical framework composed of nodes, each tree has a root node that can have zero or more child nodes, they could have any datatype or value <br />
-**Graph:** tree is actually type of graph, but not all graphs are trees. simply, tree is a connected graph without cycle, it has finite number of vertice(nodes) and finite number of edges connecting the vertices(nodes) <br />
+**Graph:** tree is actually type of graph, but not all graphs are trees. simply, tree is a connected graph without cycle, it has finite number of vertice(nodes) and finite number of edges connecting the vertices(nodes) 
  <li> Adjacency: A vertex is said to be adjacent to another vertex if there is an edge connecting them </li>
  <li> Directed Graph: The edges in such a graph are represented by arrows to show the direction of the edge. </li>
  
