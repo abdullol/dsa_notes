@@ -19,9 +19,12 @@ birds eye view of data structure and algorithm in c# so you can save your ass in
 **storage structure vs file structure:** <br />
 -Storage structure has memory stored in computer system (e.g. RAM) data gets deleted once function is complete<br />
 -file structure has memory stored in auxillary memory (harddrive, usb)  where we have to delete or modify it manually<br />
-**in 2D Array Data** is stored in rows and column wise, i.e. Row-major order and Column-major order<br />
-**Linked List Datastructure: ** <br />
--its is linear DS or sequence of data objects where elements are not stored in adjacent memory locations rather elements are linked using pointers to form a chain. each object is called Node. Each node has 2 item, data field and reference to the next node. entry point in a linked list is called head. Where the list is empty, Head has null reference and the last object has reference to null.<br />
--LS is a dynammic DS, it has ability to grow and shrink as needed
+**in 2D Array Data** is storcolumn-wiseand column wise, i.e. Row-major order and Column-major order<br />
+**Linked List Datastructure:it <br />
+-it is linear DS or sequence of data objects where elements are not stored in adjacent memory locations rather elements are linked using pointers to form a chain. each object is called Node. Each node has 2 item, a a data field and reference to the next node. entry point in a linked list is called head. Where the list is empty, Head has null reference and the la ast object has reference to null.<br />
+-LS is a dynamite the mic DS, it has ability to grow and shrink as needed
 **Dijkstra’s shortest path algorithm: ** <br />
+- **Weighted graph: ** where weight is assigned to each edge
+<li>run on a weighted graph</li>
+<li>finds the least cost path from initial node to goal node</li>
 
