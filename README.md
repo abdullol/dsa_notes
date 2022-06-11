@@ -24,7 +24,7 @@ birds eye view of data structure and algorithm in c# so you can save your ass in
 -it is linear DS or sequence of data objects where elements are not stored in adjacent memory locations rather elements are linked using pointers to form a chain. each object is called Node. Each node has 2 item, a a data field and reference to the next node. entry point in a linked list is called head. Where the list is empty, Head has null reference and the la ast object has reference to null.<br />
 -LS is a dynamite the mic DS, it has ability to grow and shrink as needed
 **Dijkstra’s shortest path algorithm: ** <br />
-- **Weighted graph: ** where weight is assigned to each edge
+- Weighted graph:  where weight is assigned to each edge
 <li>run on a weighted graph</li>
 <li>finds the least cost path from initial node to goal node</li>
 
